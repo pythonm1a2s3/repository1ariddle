@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<body>
+<h3>pip install</h3>
+HTML
+
+#include <iostream>
+#include <ctime>  // Import the ctime library
+using namespace std;
+ 
+int main () {
+  // Get the timestamp for the current date and time
+  time_t timestamp;
+  time(&timestamp);
+
+  // Display the date and time represented by the timestamp
+  cout << ctime(&timestamp);
+  return 0;
+}
+
+// Note: This example displays the server's local time, which may differ from your local time.
+
+C++
+
+
+pip in stall downlaod   commentOP
+
+i am working on its bash html react C++ and rust
+exaple python plott
+#Three lines to make our compiler able to draw:
+import sys
+import matplotlib
+matplotlib.use('Agg')
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+y = np.array([35, 25, 25, 15])
+
+plt.pie(y)
+plt.show() 
+
+#Two  lines to make our compiler able to draw:
+plt.savefig(sys.stdout.buffer)
+sys.stdout.flush()
+copy and run this on any python app
+
+it will plot a pie graph
+
+
+community 
+
+
+main branch
+
+
+here
+
+print("hello")
+or 
+if pasta ready:
+   print("yum")
+   else:
+    print("aww")
+
+
+HTML introduction 
+here 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+
+C++
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+
+
+
+
+
+
+
+
+
+enough for today byee!
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
